@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body {
+  font-family: aktiv-grotesk, sans-serif;
+  font-style: normal;
+  font-weight: 200;
+}
+bio {
+  font-family: orpheuspro, serif;
+  font-style: normal;
+  font-weight: 400;
+}
